@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": ["list.egoist.sh"],
+  "alias": ["list.moepoi.jp"],
   "builds": [
     {
       "src": "next.config.js",
